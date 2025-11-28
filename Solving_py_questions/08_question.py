@@ -6,5 +6,5 @@
 # ans=
 
 num = int(input("Enteter an integer number:"))
-print("Square:", num ** 2)
-print("Cube:", num ** 3)
+print("Square is:", num ** 2)
+print("Cube is:", num ** 3)
