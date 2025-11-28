@@ -6,5 +6,5 @@
 
 # ans= 
 
-food = input("Enter your favorite food:")
+food = input("what is your favorite food:")
 print("Wow! I also like", food)
