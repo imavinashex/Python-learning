@@ -16,7 +16,7 @@
 
 # 6 int("10") + 5 gives 15 .
 
-# ans  1s
+# ans  1st
 
 print("First statement  #0 :", False)
 print("Second statement:", True)
