@@ -30,3 +30,9 @@ num2 = int(input("Enter a number to print its multiplication table;"))
 
 for i in range(1, 11):
     print(num1,"X",i,"=",num1*i,"\t",num2, "X", i, "=", num2*i)
+
+
+fruits = ["apple", "bannan", "strabarry"]
+
+for fruit in fruits:
+    print(fruit)

@@ -9,3 +9,4 @@ value_4 = 89.5 * 6.5
 
 print("#1 output \n", value_1, value_2, value_3, value_4,)
 
+

@@ -23,5 +23,4 @@ print("Program Fineshed\n Thank you")
 
 
 
-# what is function 
-function 
+# what is function
