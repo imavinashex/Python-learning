@@ -1,0 +1,2 @@
+import like as lk
+print(lk.student(age=20,name="BoB"))
