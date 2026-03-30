@@ -32,7 +32,7 @@ for i in range(1, 11):
     print(num1,"X",i,"=",num1*i,"\t",num2, "X", i, "=", num2*i)
 
 
-fruits = ["apple", "bannan", "strabarry"]
+# fruits = ["apple", "bannan", "strabarry"]
 
-for fruit in fruits:
-    print(fruit)
+# for fruit in fruits:
+#     print(fruit)
