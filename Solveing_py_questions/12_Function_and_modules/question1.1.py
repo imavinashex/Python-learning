@@ -12,4 +12,3 @@ called.
 def greet(welcome):
    print(f"Hello, {welcome}")
 greet("Python Learner!")
-
