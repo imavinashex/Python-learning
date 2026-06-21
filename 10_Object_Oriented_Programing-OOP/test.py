@@ -1,5 +1,3 @@
-#date 14/06/2026
-
 class new_drama_of_cjp:
 
 
