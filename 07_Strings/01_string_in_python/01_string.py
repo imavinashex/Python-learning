@@ -21,6 +21,6 @@ example 1234,4833
 
 value1 = "Hello Python"
 value2 = "Python Programing"
-print("Value1:", value1[0:5] )
-print("Value2:", value2[0:5] )
+print("Value1:", value1[0:5] ) #Output Hello
+print("Value2:", value2[0:5] ) #Output Pyhto
 
